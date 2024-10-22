@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/61yasodas70fqjra?svg=true)](https://ci.appveyor.com/project/DmitryBP/netology-ajs-7-advanced-task-1)
 ## Никнеймы
 
 ### Легенда
